@@ -1,0 +1,7 @@
+How to use Power BI DAX - Tutorial
+
+Source: https://www.youtube.com/watch?v=waG_JhBgUpM&ab_channel=KevinStratvert
+
+Descr: 	In this step-by-step tutorial for beginners, learn how to use DAX (Data Analysis Expressions) in Microsoft Power BI. 
+	DAX is a formula language with functions. 
+	If you've ever written formulas in Excel, you'll find that DAX is very familiar.
